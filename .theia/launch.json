@@ -1,0 +1,22 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Django",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/manage.py",
+      "env": {
+        "DJANGO_SETTINGS_MODULE": "locallibrary.local_settings"
+      },
+      "args": [
+        "runserver",
+        "0.0.0.0:8080",
+        "--noreload"
+      ],
+      "django": true
+    }
+  ]
+}

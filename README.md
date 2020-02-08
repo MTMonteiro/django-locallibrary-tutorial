@@ -1,3 +1,5 @@
+# A Fork from the Theia Django Local Library Example and added a Django Debug Configuration
+
 # Django Local Library
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/django-locallibrary-tutorial)
